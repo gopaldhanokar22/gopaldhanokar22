@@ -82,7 +82,7 @@ __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Arduino_nano_
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__👨‍💻3. Ardiuno Uno__
+__👨‍💻4. Ardiuno Uno__
 
 01. Title: Traffic Light System Using Arduino uno 
 02. Title: Counter Control System Using Arduino uno
@@ -110,3 +110,36 @@ __Learning Keys:__
  - Improved circuit designing, debugging, and logical thinking for real-world hardware integration.
 
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Arduino_Uno_R3)__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+__👨‍💻5. Microcontroller 8051__
+
+01. Title: Traffic Light System Using Microcontroller 8051 
+02. Title: Counter Control System Using Microcontroller 8051
+03. Title: Seven Segment Display - Counting 0 to 9 Using Microcontroller 8051
+04. Title: LCD Interfacing with Microcontroller 8051
+05. Title: Basic Calculator Using Microcontroller 8051 and Keypad with LCD Display
+06. Title: DC Motor Control System Using Microcontroller 8051
+07. Title: Servo Motor Control Using Microcontroller 8051
+08. Title: Temperature Sensor (LM35) Interfacing with Microcontroller 8051
+09. Title: DHT11 Temperature and Humidity Sensor Interfacing with Microcontroller 8051
+10. Title: Fire Sensor Interfacing with Microcontroller 8051
+11. Title: LED Blinking with Microcontroller 8051
+12. Title: Sharp Distance Sensor Interfacing with Microcontroller 8051
+13. Title: Ultrasonic Sensor (HC-SR04) Interfacing with Microcontroller 8051
+14. Title: Vibration Sensor-Based LED Indicator Using SW-420 and Microcontroller 8051
+15. Title: Bi-Directional Counter Using IR Sensors and LCD
+
+__Learning Keys:__
+ - Gained hands-on experience with 8051 architecture, pin configuration, and register-level programming in Embedded C.
+ - Mastered interfacing techniques for input and output peripherals including LCDs, 7-segment displays, keypads, and LEDs.
+ - Developed real-time applications like traffic light systems, counters, calculators, and fire alert mechanisms.
+ - Interfaced and processed data from sensors like LM35, DHT11, ultrasonic, vibration (SW-420), IR, and sharp distance sensors.
+ - Built motor control systems for both DC and Servo motors, learning about PWM and port manipulation.
+ - Understood the fundamentals of interrupt handling, delay generation, and bitwise operations for embedded control.
+ - Improved circuit design, debugging skills, and low-level hardware interaction using Keil uVision and proteus simulations.
+
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Microcontroller_8051)__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
