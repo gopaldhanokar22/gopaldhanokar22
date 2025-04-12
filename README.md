@@ -20,19 +20,19 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🗂️ Academic Projects:
-__1. Academic Projects__
+__🤖 1. ALL IN ONE ROBOT__
 
-<!--
-**gopaldhanokar22/gopaldhanokar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Objective:__ The project focuses on developing a multifunctional robotic system designed for military applications. It integrates advanced features such as line following, obstacle avoidance, IR remote control, voice control, and mobile application-based control for versatile operation. Additionally, the robot incorporates specialized systems like landmine detection, RADAR technology, unwanted activities detection, fire detection, GPS navigation, and a solar panel power supply. The goal is to create a unified platform that enhances military operations by providing surveillance, reconnaissance, and tactical support while ensuring safety and sustainability.
 
-Here are some ideas to get you started:
+__Learning Keys:__
+ - Gained hands-on experience in embedded systems and sensor integration (IR, ultrasonic, GPS, fire, metal detection).
+ - Implemented multi-control modes: voice, IR remote, mobile app, and autonomous navigation.
+ - Developed military-grade features like landmine detection, RADAR, intruder alert, and fire detection.
+ - Integrated GPS for real-time navigation and tracking.
+ - Utilized solar panel for sustainable power management.
+ - Strengthened skills in team collaboration, embedded C programming, and real-time system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__🗂️ View Project: [Link](https://example.com)__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
