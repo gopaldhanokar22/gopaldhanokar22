@@ -1,4 +1,4 @@
-## Hello! Welcome to my Portfolio 
+## 👋 Hello! Welcome to my Portfolio 
 
 ![GOPAL DHANOKAR](https://github.com/user-attachments/assets/da1213c5-7b46-4d79-8afe-65f3c4a3f7ff)
 
