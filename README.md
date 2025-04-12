@@ -51,7 +51,7 @@ __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Smart_Electro
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__3. Ardiuno Nano__
+__👨‍💻3. Ardiuno Nano__
 
 01. Title: Traffic Light System Using Arduino nano
 02. Title: Counter Control System Using Arduino nano
@@ -81,3 +81,32 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Arduino_nano_v3)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+__👨‍💻3. Ardiuno Uno__
+
+01. Title: Traffic Light System Using Arduino uno 
+02. Title: Counter Control System Using Arduino uno
+03. Title: Seven Segment Display - Counting 0 to 9 Using Arduino uno
+04. Title: LCD Interfacing with Arduino uno
+05. Title: Basic Calculator Using Arduino uno and Keypad with LCD Display
+06. Title: DC Motor Control System Using Arduino uno
+07. Title: Servo Motor Control Using Arduino uno
+08. Title: Temperature Sensor (LM35) Interfacing with Arduino uno
+09. Title: DHT11 Temperature and Humidity Sensor Interfacing with Arduino uno
+10. Title: Fire Sensor Interfacing with Arduino uno
+11. Title: LED Blinking with Arduino uno
+12. Title: Sharp Distance Sensor Interfacing with Arduino uno
+13. Title: Ultrasonic Sensor (HC-SR04) Interfacing with Arduino uno
+14. Title: Vibration Sensor-Based LED Indicator Using SW-420 and Arduino uno
+15. Title: Bi-Directional Counter Using IR Sensors and LCD
+
+__Learning Keys:__
+ - Developed strong hands-on experience in Arduino Uno programming and embedded C logic design.
+ - Gained practical knowledge in sensor interfacing, including temperature (LM35, DHT11), fire, ultrasonic, vibration, and IR sensors.
+ - Learned to control output devices like LEDs, LCDs, DC motors, servo motors, and 7-segment displays.
+ - Implemented real-time applications like traffic control, counters, calculators, and fire alert systems.
+ - Strengthened understanding of data display techniques using LCDs and 7-segment displays.
+ - Mastered input handling using keypads, buttons, and IR-based triggers for interactive embedded systems.
+ - Improved circuit designing, debugging, and logical thinking for real-world hardware integration.
+
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Arduino_Uno_R3)__
