@@ -1,5 +1,8 @@
 ## Hello! Welcome to my Portfolio 
 
+![GOPAL DHANOKAR](https://github.com/user-attachments/assets/da1213c5-7b46-4d79-8afe-65f3c4a3f7ff)
+
+
 ## 📌About Me
 
 I am Gopal Dhanokar, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, and Data Structures. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051, and AVR (ATmega328P), and gaining in-depth knowledge of embedded hardware and software integration.
