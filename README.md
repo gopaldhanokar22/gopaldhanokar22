@@ -32,7 +32,7 @@ __Learning Keys:__
  - Utilized solar panel for sustainable power management.
  - Strengthened skills in team collaboration, embedded C programming, and real-time system design.
 
-__🗂️ View Project: [Link](https://example.com)__
+__🗂️ View Project: [Link](https://github.com/gopaldhanokar22/All_in_One_Robot)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
