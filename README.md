@@ -32,7 +32,21 @@ __Learning Keys:__
  - Utilized solar panel for sustainable power management.
  - Strengthened skills in team collaboration, embedded C programming, and real-time system design.
 
-__🗂️ View Project: [Link](https://github.com/gopaldhanokar22/All_in_One_Robot)__
+__🗂️ View Project: 🔗[Link](https://github.com/gopaldhanokar22/All_in_One_Robot)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+__🗳️ 2. SMART ELECTRONIC VOTING MACHINE__
+
+__Objective:__Designed and implemented an electronic voting machine to replace traditional manual systems, ensuring secure, transparent, and efficient voting. The system uses an Arduino UNO as the central controller, allowing voters to select candidates via push buttons, with votes counted and displayed in real-time on a 16x2 LCD. A dedicated "result" button provides instant tally results, eliminating fraud and enhancing user experience.
+
+__Learning Keys:__
+ - Understood real-time embedded system design using Arduino UNO as the core controller.
+ - Gained experience in push button interfacing and vote logic implementation.
+ - Learned how to display dynamic data using a 16x2 LCD for live vote count and result display.
+ - Implemented a fraud-proof voting mechanism with secure input handling and instant result generation.
+ - Strengthened skills in Embedded C programming, hardware debugging, and user-centric design.
+
+__🗂️ View Project: 🔗[Link](https://github.com/gopaldhanokar22/Smart_Electronic_Voting_Machine_Using_Arduino_Uno_R3)__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
