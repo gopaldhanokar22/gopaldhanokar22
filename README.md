@@ -50,3 +50,34 @@ __Learning Keys:__
 __🗂️ View Project: 🔗[Link](https://github.com/gopaldhanokar22/Smart_Electronic_Voting_Machine_Using_Arduino_Uno_R3)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+__3. Ardiuno Nano__
+
+01. Title: Traffic Light System Using Arduino nano
+02. Title: Counter Control System Using Arduino nano
+03. Title: Seven Segment Display - Counting 0 to 9 Using Arduino nano
+04. Title: LCD Interfacing with Arduino nano
+05. Title: Basic Calculator Using Arduino nano and Keypad with LCD Display
+06. Title: DC Motor Control System Using Arduino nano
+07. Title: Servo Motor Control Using Arduino nano
+08. Title: Temperature Sensor (LM35) Interfacing with Arduino nano
+09. Title: DHT11 Temperature and Humidity Sensor Interfacing with Arduino nano
+10. Title: Fire Sensor Interfacing with Arduino nano
+11. Title: LED Blinking with Arduino nano
+12. Title: Sharp Distance Sensor Interfacing with Arduino nano
+13. Title: Ultrasonic Sensor (HC-SR04) Interfacing with Arduino nano
+14. Title: Vibration Sensor-Based LED Indicator Using SW-420 and Arduino nano
+15. Title: Bi-Directional Counter Using IR Sensors and LCD
+
+__Learning Keys:__
+ - Developed strong hands-on experience in Arduino Nano programming and embedded C logic design.
+ - Gained practical knowledge in sensor interfacing, including temperature (LM35, DHT11), fire, ultrasonic, vibration, and IR sensors.
+ - Learned to control output devices like LEDs, LCDs, DC motors, servo motors, and 7-segment displays.
+ - Implemented real-time applications like traffic control, counters, calculators, and fire alert systems.
+ - Strengthened understanding of data display techniques using LCDs and 7-segment displays.
+ - Mastered input handling using keypads, buttons, and IR-based triggers for interactive embedded systems.
+ - Improved circuit designing, debugging, and logical thinking for real-world hardware integration.
+
+__🗂️ View Project: 🔗[Link](https://github.com/gopaldhanokar22/Arduino_nano_v3)__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
