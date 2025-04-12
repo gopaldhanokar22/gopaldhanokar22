@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 __🗳️ 2. SMART ELECTRONIC VOTING MACHINE__
 
-__Objective:__Designed and implemented an electronic voting machine to replace traditional manual systems, ensuring secure, transparent, and efficient voting. The system uses an Arduino UNO as the central controller, allowing voters to select candidates via push buttons, with votes counted and displayed in real-time on a 16x2 LCD. A dedicated "result" button provides instant tally results, eliminating fraud and enhancing user experience.
+__Objective:__ Designed and implemented an electronic voting machine to replace traditional manual systems, ensuring secure, transparent, and efficient voting. The system uses an Arduino UNO as the central controller, allowing voters to select candidates via push buttons, with votes counted and displayed in real-time on a 16x2 LCD. A dedicated "result" button provides instant tally results, eliminating fraud and enhancing user experience.
 
 __Learning Keys:__
  - Understood real-time embedded system design using Arduino UNO as the core controller.
