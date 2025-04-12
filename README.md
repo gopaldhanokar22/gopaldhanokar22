@@ -21,11 +21,19 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🗂️ Vector Projects:
 
-__⏱️1. Title: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules.__
+__⏱️ Title: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules.__
 
 __Objective:__ To design a time-driven embedded access control system that displays real-time clock information, allows user-defined scheduling and editing via keypad, and grants access based on correct password entry within a predefined time window.
 
+__Learning Keys:__
+ - Real-Time Clock (RTC) Integration: Learn how to interface and manage real-time clocks (RTC) with microcontrollers, ensuring accurate time and date display on an LCD.
+ - Keypad Interface: Understand how to interface a 4x4 matrix keypad to capture user input (password entry, RTC, and time editing) and handle debouncing for reliable signal detection.
+ - Password-Based Access Control: Implement security features, such as checking user passwords and granting access based on time schedules and password correctness.
+ - Interrupts and Event Handling: Use interrupts to trigger the editing mode for RTC and schedule times, which is a common technique in embedded systems to manage real-time inputs effectively.
+ - LCD and User Interface: Learn to display real-time information (like date, time, and access status) on a 16x2 or 20x4 LCD and provide a user-friendly interface for password entry and settings modification.
+ - System Integration: Integrate all components (LPC2148 microcontroller, RTC, LCD, Keypad, and Buzzer/LED) to build a complete access control system that works under scheduled conditions.
 
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
