@@ -40,6 +40,71 @@ __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_A
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+__👨‍💻 ARM7 LPC2148__
+
+01. Title: Led Light blinking System Using LPC2148
+02. Title: Traffic Light System Using LPC2148
+03. Title: LED Binary Counter (1 to 255) Using LPC2148
+04. Title: Electronic Dice Using LPC2148
+05. Title: Switch-Controlled LED Using LPC2148
+06. Title: Dual Switch-Controlled LED Using LPC2148
+07. Title: 4 Switches Controlling 4 LEDs Using LPC2148
+08. Title: 7-Segment Display Digit Test Using LPC2148
+09. Title: Dual-Digit 7-Segment Multiplexed Display Test Using LPC2148
+10. Title: Electronic Dice Simulation on 7-Segment Display Using LPC2148
+11. Title: 60-Second Stopwatch Using LPC2148 and 7-Segment Display
+12. Title: 60-Second Timer with Increment, Decrement, and Reset Using LPC2148
+13. Title: LCD Functionality Test Using LPC2148
+14. Title: Displaying Capital Alphabets with ASCII Values on 16x2 LCD
+15. Title: Electronic Dice Simulation Using LCD Display
+16. Title: Scrolling and Oscillating Message Display on LCD Using LPC2148
+17. Title: Fastest Finger First Timer using LCD and LPC2148 Microcontroller
+18. Title: Fastest Finger First System Using LPC2148 with 7-Segment Display
+19. Title: 4x4 Matrix Keypad Interface and Display Test Using LPC2148 and LCD
+20. Title: SMS-Style Text Entry Using 4x4 Keypad and LCD with LPC2148
+21. Title: ADC Value Display on LCD using LPC2148
+22. Title: Temperature Monitoring using LM35 Sensor and LPC2148 with LCD Display
+23. Title: Distance Measurement using GP2D12 Sensor with LPC2148 and LCD Display
+24. Title: DHT11 Interfacing with LPC2148 for Temperature and Humidity Monitoring
+25. Title: 20x4 LCD Interface with LPC2148 for Multi-Format Data Display
+
+__Learning Keys:__
+ - GPIO Programming: Learn how to configure and control GPIO pins for digital output and input using LPC2148.
+ - Bit Manipulation: Understand how to set, clear, and toggle individual bits in registers to control LEDs and read switch states.
+ - Timing Control with Delay Functions: Implement software delay using loops to create visual patterns in LED blinking and sequences.
+ - Decision-Making Logic: Use simple if/else or switch-case logic to respond to user input from switches.
+ - Digital Logic Simulation: Simulate real-world digital systems (like traffic signals) using LED control patterns.
+ - 7-Segment Interfacing: Learn how to map segments to GPIOs and display numeric values by controlling segment patterns.
+ - Multiplexing Technique: Use digit-wise scanning to control multiple 7-segment displays with fewer GPIOs.
+ - Modular Coding: Break down large display tasks into functions for digit extraction and display control.
+ - Timer/Stopwatch Logic: Implement counters, delays, and reset/increment functions using timers and flags.
+ - Random Number Generation (Electronic Dice): Use pseudo-random algorithms to simulate dice rolling.
+ - LCD Interfacing (16x2 and 20x4): Learn to initialize and use LCDs in 4-bit or 8-bit mode for data/command communication.
+ - Character Formatting: Display strings, variables, custom characters, and ASCII codes with proper positioning.
+ - Dynamic Content Display: Create scrolling, blinking, and alternating messages using cursor control and delays.
+ - Real-Time Parameter Display: Show live sensor data (ADC/Temperature/Distance) in a readable format.
+ - Multi-Line and Structured Display: Present tabular and formatted content using 20x4 LCD.
+ - Matrix Keypad Interfacing: Understand scanning technique (row-column) and debouncing logic.
+ - Character Mapping: Convert key press positions to numerical or character values.
+ - User Interaction Design: Build interactive features like SMS-typing, password entry, and input editing.
+ - Secure Input Handling: Add basic validation and entry confirmation for user passwords or values.
+ - RTC Integration (DS1307/DS3231): Use I2C protocol to communicate with external RTC modules.
+ - Time Comparison Logic: Implement scheduled access and control based on current time values.
+ - Interrupt-Driven Design: Use external interrupts or polling to handle time edit requests or access triggers.
+ - Secure Scheduling: Combine password authentication with time constraints for access control systems.
+ - ADC Interfacing: Learn how to configure LPC2148’s built-in ADC to capture analog signals.
+ - Sensor Calibration & Scaling: Convert raw ADC values into meaningful units (°C, cm, %, etc.).
+ - Data Filtering & Formatting: Implement smoothing or formatted display of fluctuating sensor values.
+ - Sensor Protocols (One-Wire, Analog): Interface sensors like DHT11 (digital) and LM35 (analog) with proper timing.
+ - Multi-Module Integration: Combine GPIO, LCD, Keypad, RTC, ADC, and Interrupts in a single system.
+ - Modular Programming: Organize code in files/functions for scalability and clarity.
+ - Real-Time Behavior Simulation: Create systems that mimic real-world use-cases like security panels or access controllers.
+ - Power Management (Optional): Explore sleep modes and peripheral enable/disable techniques.
+ - Debugging & Testing: Practice debugging techniques using UART print logs or LED indicators.
+   
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2148)__
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🗂️ Academic Projects:
 __🤖 1. ALL IN ONE ROBOT__
 
