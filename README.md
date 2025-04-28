@@ -24,6 +24,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🗂️ Vector Projects:
 
+## ARM
 __⏱️ Title: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules.__
 
 __Objective:__ To design a time-driven embedded access control system that displays real-time clock information, allows user-defined scheduling and editing via keypad, and grants access based on correct password entry within a predefined time window.
