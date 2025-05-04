@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
 
-## ARM
+## MICROCONTROLLER (LPC2148 & LPC2129) AND 8051 
 __⏱️ Mini Project Title: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules.__
 
 __Objective:__ To design a time-driven embedded access control system that displays real-time clock information, allows user-defined scheduling and editing via keypad, and grants access based on correct password entry within a predefined time window.
