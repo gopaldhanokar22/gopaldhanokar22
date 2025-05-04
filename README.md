@@ -22,7 +22,7 @@ ________________________________________________________________________________
  - __Networking Protocols:__ TCP/IP
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-## 🗂️ Vector Projects:
+![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
 
 ## ARM
 __⏱️ Mini Project Title: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules.__
@@ -170,7 +170,9 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 🗂️ Academic Projects:
+![2](https://github.com/user-attachments/assets/5d46e877-801a-4f53-9e75-7f5d3f50db25)
+
+
 __🤖 1. ALL IN ONE ROBOT__
 
 __Objective:__ The project focuses on developing a multifunctional robotic system designed for military applications. It integrates advanced features such as line following, obstacle avoidance, IR remote control, voice control, and mobile application-based control for versatile operation. Additionally, the robot incorporates specialized systems like landmine detection, RADAR technology, unwanted activities detection, fire detection, GPS navigation, and a solar panel power supply. The goal is to create a unified platform that enhances military operations by providing surveillance, reconnaissance, and tactical support while ensuring safety and sustainability.
