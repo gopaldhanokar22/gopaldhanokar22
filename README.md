@@ -5,7 +5,7 @@
 
 ## 📌About Me
 
-I am Gopal Dhanokar, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, and Data Structures. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051, and AVR (ATmega328P), and gaining in-depth knowledge of embedded hardware and software integration.
+I am Gopal Dhanokar, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, and Data Structures. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
 
 My focus areas include real-time operating systems (RTOS), Linux-based development, and communication protocols such as CAN, SPI, I2C, and UART. I enjoy problem-solving and continuously seek to improve system efficiency and reliability. My dedication to learning and building practical solutions is driven by a passion for coding, electronics, and system interfacing.
 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
  - __Programming Languages:__ C, C++, Data Structures & Algorithms (DSA), Embedded C
- - __Microcontrollers:__ ARM (LPC2129, LPC2148), 8051, AVR (ATmega328P)
+ - __Microcontrollers:__ ARM (LPC2129, LPC2148), 8051
  - __Operating Systems:__ Linux, Real-Time Operating System (RTOS)
  - __Developer Tools:__ Keil µVision, Proteus, Arduino IDE
  - __Communication Protocols:__ CAN, SPI, I2C, USB, UART
