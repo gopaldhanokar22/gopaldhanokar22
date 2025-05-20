@@ -96,7 +96,7 @@ __Learning Keys:__
  - Strengthened knowledge of code structure, debugging, and modular testing in a real-world application.
  - Improved logic-building, problem-solving, and system-level programming in the C language.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Phone_Book_Application)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA :__
