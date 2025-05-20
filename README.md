@@ -37,13 +37,24 @@ ________________________________________________________________________________
 
 ## MINI PROJECTS 
 
-__Module C & DSA :__
+__Module C & DSA : Student Database__
 
-__Objective:__
+__Objective:__ Your app should be used for all elementary work of a database application such as Input Records, deletion of records, Display records, sort records, save , search record etc..
 
 __Learning Keys:__
+ - Applied modular programming by separating each functionality (add, delete, edit, search, etc.) into different .c files.
+ - Used structures and structure pointers to manage complex student records efficiently.
+ - Implemented singly linked list (SLL) for dynamic student record storage and manipulation.
+ - Practiced Dynamic Memory Allocation (DMA) to manage memory at runtime for growing/shrinking records.
+ - Designed a menu-driven interface for interactive and user-friendly operations.
+ - Enforced unique Student ID validation to avoid duplicate entries in the database.
+ - Implemented file handling in C to persist student data across sessions (save(), syncfile() etc.).
+ - Developed sub-menu logic for editing, allowing modification of individual record fields.
+ - Built and compiled the project using a Makefile, improving efficiency and maintainability.
+ - Structured the project with clear code organization and proper header file usage (typedef, enum).
+ - Strengthened understanding of real-time database concepts and logic building using system-level C programming.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Student_Database)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA : Bank managment system__
