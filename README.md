@@ -81,11 +81,20 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Library_Management_System/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C & DSA :__
+__Module C & DSA : Phone Book Application__
 
-__Objective:__
+__Objective:__ Your project is to implement PHONE BOOK APP with options to save multiple numbers, address, gmail, and many more options as per requirement in single contact. And this app should be allow us to edit, remove, find the contacts from the phone book.
 
 __Learning Keys:__
+ - Applied modular programming by dividing functionalities into multiple .c and .h files.
+ - Used structures and structure pointers to store and manage contact details like name, numbers, email, and address.
+ - Implemented a singly linked list (SLL) for dynamic, runtime contact management.
+ - Practiced file handling in C to enable persistent data storage across multiple app runs.
+ - Developed a menu-driven user interface to interactively perform contact operations.
+ - Used Dynamic Memory Allocation (DMA) (malloc, free) to handle variable-length contact records.
+ - Automated the build process with a Makefile, improving code maintenance and compilation speed.
+ - Strengthened knowledge of code structure, debugging, and modular testing in a real-world application.
+ - Improved logic-building, problem-solving, and system-level programming in the C language.
 
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
