@@ -46,13 +46,21 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C & DSA :__
+__Module C & DSA : Bank managment system__
 
-__Objective:__
+__Objective:__ Developed a Banking Management System in C using structures, file handling, and linked lists to manage account creation, transactions, and data persistence through a menu-driven interface. Focused on modular programming and real-time data storage.
 
 __Learning Keys:__
+ - Designing structure-based applications.
+ - Using structure within a structure for transaction tracking.
+ - Implementing SLL (Singly Linked List) with structure pointers.
+ - Applying Dynamic Memory Allocation (DMA)
+ - Developing a file-based storage system (save/load features)
+ - Creating modular code architecture.
+ - Managing the project using Makefile and CLI tools.
+ - Enhancing code quality with typedef, enum.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA :__
