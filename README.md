@@ -63,13 +63,22 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C & DSA :__
+__Module C & DSA : Library Management System__
 
-__Objective:__
+__Objective:__ Designed and implemented a Library Management System in C using structures, pointers, and singly linked lists. Supported book addition, listing, searching, sorting, and counting functionalities. Integrated file handling to retain data across sessions. Used modular programming with separate source files and a Makefile for compilation.
 
 __Learning Keys:__
+ - Applied modular programming by dividing functionality into separate .c files.
+ - Used structures and structure pointers to manage book data efficiently.
+ - Implemented singly linked list (SLL) for dynamic book record storage.
+ - Practiced file handling in C to retain data between program executions.
+ - Designed a menu-driven interface for user interaction.
+ - Used Dynamic Memory Allocation (DMA) to manage data at runtime.
+ - Built and managed the project using a Makefile for simplified compilation.
+ - Gained understanding of code organization, debugging, and testing in a real-world project structure.
+ - Enhanced logic-building and problem-solving through C-based system-level programming.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Library_Management_System/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA :__
