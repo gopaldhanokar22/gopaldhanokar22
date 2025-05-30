@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ## MAJOR PROJECTS 
 
-__Module C, DS, Embedded C, Linux, ARM7(LPC2129 & LPC2148) & Protocols :__
+__Module C, DSA, Embedded C, Linux, ARM7(LPC2129 & LPC2148) & Protocols :__
 
 __Objective:__
 
@@ -36,7 +36,7 @@ __📁 View Project LPC2148: 🔗[Link](https://github.com/gopaldhanokar22/Time_
 __📁 View Project LPC2129: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C, DS, Embedded C, Linux, 8051() & Protocols :__
+__Module C, DSA, Embedded C, Linux, 8051() & Protocols :__
 
 
 __Objective:__
