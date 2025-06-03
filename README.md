@@ -179,13 +179,21 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/my_ls_command/blob/main/README.md)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module LINUX :__
+__Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C.__
 
-__Objective:__
+__Objective:__ To design and implement a two-way communication system between two users using FIFO (Named Pipes), enabling them to chat in real-time through inter-process communication in a Linux environment.
 
 __Learning Keys:__
+- Inter-Process Communication (IPC): Understanding how named pipes (FIFOs) facilitate communication between unrelated processes.
+- Process Management: Usage of fork() to create a child process for concurrent send-receive operations.
+- File Operations in Linux: System calls: open(), read(), write(), close() with FIFO files.
+- Signal Handling: Capturing and handling signals like SIGINT using signal() to clean up resources properly.
+- Error Handling and Resource Cleanup: Avoiding resource leaks (e.g., dangling FIFOs, zombie processes) through proper cleanup and process management.
+- Full-Duplex Communication Concept: Implementing bi-directional communication using two FIFOs (one for each direction).
+- User Input/Output Handling: Using fgets() for safe input and fflush(stdout) for clean output display.
+- Concurrency Basics: Understanding concurrent execution of send/receive through parent-child process splitting.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Mini_Project_Linux/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX :__
