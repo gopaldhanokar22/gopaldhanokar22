@@ -186,15 +186,6 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Mini_Project_Linux/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module LINUX :__
-
-__Objective:__
-
-__Learning Keys:__
-
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 __Module ARM :⏱️ The Time-Driven Access Control System.__
 
 __Objective:__ To design a time-driven embedded access control system that displays real-time clock information, allows user-defined scheduling and editing via keypad, and grants access based on correct password entry within a predefined time window.
