@@ -159,13 +159,24 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system_using_cpp/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module LINUX :__
+__Module LINUX : Implementation of a Basic ls -l Command in C__
 
-__Objective:__
+__Objective:__ The objective of this project is to develop a simplified version of the Unix ls -l command using C programming. The program aims to list the contents of a directory in a long-format style, displaying detailed information about each file, such as:
+- File permissions (read/write/execute)
+- Number of hard links
+- File owner and group names
+- File size in bytes
+- Last modification time
+- Filename
 
 __Learning Keys:__
+ - Directory Traversal: Learned how to use opendir() and readdir() to access and iterate through directory contents.
+ - File Metadata Access: Used lstat() to retrieve file information like size, permissions, and timestamps.
+ - Bitwise Permission Parsing: Understood how to extract file permission bits using bitwise operations on st_mode.
+ - Owner and Group Resolution: Applied getpwuid() and getgrgid() to convert UID and GID to readable names.
+ - Formatted Output: Practiced structuring output similar to ls -l using strftime() and formatted printing.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/my_ls_command/blob/main/README.md)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX :__
