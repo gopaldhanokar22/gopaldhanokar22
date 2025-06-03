@@ -131,7 +131,7 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Phone_Book_Application)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C++ :__ Student Database using C++ Programming
+__Module C++ : Student Database using C++ Programming__
 
 __Objective:__ Develop a menu-driven application to manage student records with functionalities like add, delete, display, edit, search, save, and reverse records.
 
