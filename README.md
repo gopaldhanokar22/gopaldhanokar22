@@ -145,13 +145,18 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Student_Data_base_cpp)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C++ :__
+__Module C++ : Bank Managment System Using C++__
 
-__Objective:__
+__Objective:__ Develop a menu-driven banking application to manage accounts with functionalities like account creation, deposits, withdrawals, transfers, balance inquiries, and transaction history tracking.
 
 __Learning Keys:__
+ - Implemented binary file handling for persistent storage using fstream, enabling automatic data load/save with RAII (constructor/destructor).
+ - Used structure and class-based design for accounts and transactions, integrating vector for dynamic lists.
+ - Applied enum class (TransactionType) to clearly categorize transaction types like DEPOSIT, WITHDRAW, and TRANSFER.
+ - Designed a modular C++ project with well-organized source files (main.cpp, accounts.cpp, file_operations.cpp, banking.h).
+ - Developed a menu-driven interface for user-friendly interaction supporting core banking operations and transaction tracking.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system_using_cpp/blob/main/README.md)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX :__
