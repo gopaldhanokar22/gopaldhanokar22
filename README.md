@@ -131,13 +131,18 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Phone_Book_Application)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C++ :__
+__Module C++ :__ Student Database using C++ Programming
 
-__Objective:__
+__Objective:__ Develop a menu-driven application to manage student records with functionalities like add, delete, display, edit, search, save, and reverse records.
 
 __Learning Keys:__
+ - Applied modular programming by separating functionality into multiple .cpp and .h files.
+ - Used structure pointers and singly linked list (SLL) for dynamic student record management.
+ - Implemented file handling using fstream to ensure data persistence across sessions.
+ - Designed a menu-driven interface for user-friendly interaction with options like add, delete, search, edit, and save.
+ - Enforced unique Student ID validation to maintain database integrity.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Student_Data_base_cpp)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C++ :__
