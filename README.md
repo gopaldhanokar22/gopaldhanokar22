@@ -156,7 +156,7 @@ __Learning Keys:__
  - Designed a modular C++ project with well-organized source files (main.cpp, accounts.cpp, file_operations.cpp, banking.h).
  - Developed a menu-driven interface for user-friendly interaction supporting core banking operations and transaction tracking.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system_using_cpp/blob/main/README.md)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Bank_managment_system_using_cpp/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX :__
