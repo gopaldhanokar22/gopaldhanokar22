@@ -32,7 +32,7 @@ __Objective:__ The main aim of this project is to develop a secure ATM system us
 
 __Project Overview:__
 The system consists of two main components: 
-1. Front-End (Microcontroller (LPC2148) side): 
+__1. Front-End (Microcontroller (LPC2148) side):__ 
 - Acts like a real ATM interface:
      - RFID card reader to identify user
      - Keypad for PIN entry and transaction inputs
@@ -40,7 +40,7 @@ The system consists of two main components:
      - Communicates with backend PC via UART
      - Handles the ATM interface (LCD, keypad, RFID reader) 
 
-2. Back-End (PC (Linux) side Application in C): 
+__2. Back-End (PC (Linux) side Application in C):__ 
 - Simulates a banking system:
      - Stores user and transaction data using struct and file I/O
      - Receives commands via UART from MCU
