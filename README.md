@@ -30,18 +30,18 @@ __Module C, DSA, Embedded C, Linux, ARM7(LPC2129 & LPC2148) & Protocols :ATM Sys
 
 __Objective:__ The main aim of this project is to develop a secure ATM system using RFID authentication and a PIN-based interface, with backend banking database integration implemented in C using data structures 
 
-__Project Overview:__
-The system consists of two main components: 
-__1. Front-End (Microcontroller (LPC2148) side):__ 
-- Acts like a real ATM interface:
+__Project Overview:__\
+The system consists of two main components: \
+__1. Front-End (Microcontroller (LPC2148) side):__\
+Acts like a real ATM interface:
      - RFID card reader to identify user
      - Keypad for PIN entry and transaction inputs
      - LCD display for menu and status messages
      - Communicates with backend PC via UART
      - Handles the ATM interface (LCD, keypad, RFID reader) 
 
-__2. Back-End (PC (Linux) side Application in C):__ 
-- Simulates a banking system:
+__2. Back-End (PC (Linux) side Application in C):__\
+Simulates a banking system:
      - Stores user and transaction data using struct and file I/O
      - Receives commands via UART from MCU
      - Sends results and balance info back to MCU
@@ -49,8 +49,8 @@ __2. Back-End (PC (Linux) side Application in C):__
 
 __Learning Keys:__
 
-__📁 View Project LPC2148: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__\
-__📁 View Project LPC2129: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project LPC2148: 🔗[Link]()__\
+__📁 View Project LPC2129: 🔗[Link]()__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## MINI PROJECTS 
