@@ -26,9 +26,26 @@ ________________________________________________________________________________
 
 ## MAJOR PROJECTS 
 
-__Module C, DSA, Embedded C, Linux, ARM7(LPC2129 & LPC2148) & Protocols :__
+__Module C, DSA, Embedded C, Linux, ARM7(LPC2129 & LPC2148) & Protocols :ATM System Design with Database Integration__
 
-__Objective:__
+__Objective:__ The main aim of this project is to develop a secure ATM system using RFID authentication and a PIN-based interface, with backend banking database integration implemented in C using data structures 
+
+__Project Overview:__
+The system consists of two main components: 
+1. Front-End (Microcontroller (LPC2148) side): 
+- Acts like a real ATM interface:
+     - RFID card reader to identify user
+     - Keypad for PIN entry and transaction inputs
+     - LCD display for menu and status messages
+     - Communicates with backend PC via UART
+     - Handles the ATM interface (LCD, keypad, RFID reader) 
+
+2. Back-End (PC (Linux) side Application in C): 
+- Simulates a banking system:
+     - Stores user and transaction data using struct and file I/O
+     - Receives commands via UART from MCU
+     - Sends results and balance info back to MCU
+     - Simulates a banking database using data structures and file handling 
 
 __Learning Keys:__
 
