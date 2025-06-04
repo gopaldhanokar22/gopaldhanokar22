@@ -32,7 +32,7 @@ __Objective:__ The main aim of this project is to develop a secure ATM system us
 
 __Project Overview:__\
 The system consists of two main components: \
-__1. Front-End (Microcontroller (LPC2148) side):__\
+__1. Front-End (Microcontroller (LPC21xx) side):__\
 Acts like a real ATM interface:
  - RFID card reader to identify user
  - Keypad for PIN entry and transaction inputs
