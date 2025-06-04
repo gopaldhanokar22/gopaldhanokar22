@@ -64,8 +64,8 @@ __Learning Keys:__
  - Debugging & Troubleshooting: Gained skills in tracing serial data issues, peripheral mismatches, and logical errors.
  - Real-Time Application Thinking: Developed understanding of real-world system behavior, user access security, and fault-tolerance.
 
-__📁 View Project LPC2148: 🔗[Link]()__\
-__📁 View Project LPC2129: 🔗[Link]()__
+__📁 View Project LPC2148: 🔗[Link](https://github.com/gopaldhanokar22/ATM_System_Design_with_Database_Integration_LPC2148/tree/main)__\
+__📁 View Project LPC2129: 🔗[Link](https://github.com/gopaldhanokar22/ATM_System_Design_with_Database_Integration_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## MINI PROJECTS 
