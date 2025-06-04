@@ -34,18 +34,18 @@ __Project Overview:__\
 The system consists of two main components: \
 __1. Front-End (Microcontroller (LPC2148) side):__\
 Acts like a real ATM interface:
-     - RFID card reader to identify user
-     - Keypad for PIN entry and transaction inputs
-     - LCD display for menu and status messages
-     - Communicates with backend PC via UART
-     - Handles the ATM interface (LCD, keypad, RFID reader) 
+ - RFID card reader to identify user
+ - Keypad for PIN entry and transaction inputs
+ - LCD display for menu and status messages
+ - Communicates with backend PC via UART
+ - Handles the ATM interface (LCD, keypad, RFID reader) 
 
 __2. Back-End (PC (Linux) side Application in C):__\
 Simulates a banking system:
-     - Stores user and transaction data using struct and file I/O
-     - Receives commands via UART from MCU
-     - Sends results and balance info back to MCU
-     - Simulates a banking database using data structures and file handling 
+ - Stores user and transaction data using struct and file I/O
+ - Receives commands via UART from MCU
+ - Sends results and balance info back to MCU
+ - Simulates a banking database using data structures and file handling 
 
 __Learning Keys:__
 
