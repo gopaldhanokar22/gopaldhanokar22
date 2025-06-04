@@ -36,16 +36,6 @@ __📁 View Project LPC2148: 🔗[Link](https://github.com/gopaldhanokar22/Time_
 __📁 View Project LPC2129: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module C, DSA, Embedded C, Linux, 8051(AT89S52) & Protocols :__
-
-
-__Objective:__
-
-__Learning Keys:__
-
-__📁 View Project AT89S52: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## MINI PROJECTS 
 
 __Module C & DSA : Student Database__
@@ -231,38 +221,21 @@ __👨‍💻 ARM7 LPC2148__
 25. Title: 20x4 LCD Interface with LPC2148 for Multi-Format Data Display
 
 __Learning Keys:__
- - GPIO Programming: Learn how to configure and control GPIO pins for digital output and input using LPC2148.
- - Bit Manipulation: Understand how to set, clear, and toggle individual bits in registers to control LEDs and read switch states.
- - Timing Control with Delay Functions: Implement software delay using loops to create visual patterns in LED blinking and sequences.
- - Decision-Making Logic: Use simple if/else or switch-case logic to respond to user input from switches.
- - Digital Logic Simulation: Simulate real-world digital systems (like traffic signals) using LED control patterns.
- - 7-Segment Interfacing: Learn how to map segments to GPIOs and display numeric values by controlling segment patterns.
- - Multiplexing Technique: Use digit-wise scanning to control multiple 7-segment displays with fewer GPIOs.
- - Modular Coding: Break down large display tasks into functions for digit extraction and display control.
- - Timer/Stopwatch Logic: Implement counters, delays, and reset/increment functions using timers and flags.
- - Random Number Generation (Electronic Dice): Use pseudo-random algorithms to simulate dice rolling.
- - LCD Interfacing (16x2 and 20x4): Learn to initialize and use LCDs in 4-bit or 8-bit mode for data/command communication.
- - Character Formatting: Display strings, variables, custom characters, and ASCII codes with proper positioning.
- - Dynamic Content Display: Create scrolling, blinking, and alternating messages using cursor control and delays.
- - Real-Time Parameter Display: Show live sensor data (ADC/Temperature/Distance) in a readable format.
- - Multi-Line and Structured Display: Present tabular and formatted content using 20x4 LCD.
- - Matrix Keypad Interfacing: Understand scanning technique (row-column) and debouncing logic.
- - Character Mapping: Convert key press positions to numerical or character values.
- - User Interaction Design: Build interactive features like SMS-typing, password entry, and input editing.
- - Secure Input Handling: Add basic validation and entry confirmation for user passwords or values.
- - RTC Integration (DS1307/DS3231): Use I2C protocol to communicate with external RTC modules.
- - Time Comparison Logic: Implement scheduled access and control based on current time values.
- - Interrupt-Driven Design: Use external interrupts or polling to handle time edit requests or access triggers.
- - Secure Scheduling: Combine password authentication with time constraints for access control systems.
- - ADC Interfacing: Learn how to configure LPC2148’s built-in ADC to capture analog signals.
- - Sensor Calibration & Scaling: Convert raw ADC values into meaningful units (°C, cm, %, etc.).
- - Data Filtering & Formatting: Implement smoothing or formatted display of fluctuating sensor values.
- - Sensor Protocols (One-Wire, Analog): Interface sensors like DHT11 (digital) and LM35 (analog) with proper timing.
- - Multi-Module Integration: Combine GPIO, LCD, Keypad, RTC, ADC, and Interrupts in a single system.
- - Modular Programming: Organize code in files/functions for scalability and clarity.
- - Real-Time Behavior Simulation: Create systems that mimic real-world use-cases like security panels or access controllers.
- - Power Management (Optional): Explore sleep modes and peripheral enable/disable techniques.
- - Debugging & Testing: Practice debugging techniques using UART print logs or LED indicators.
+ - GPIO Programming: Control digital inputs and outputs using microcontroller ports.
+ - Bit Manipulation: Use bitwise operations to set, clear, and toggle specific bits.
+ - Delay Control: Create precise timing delays for LED patterns and display effects.
+ - Decision Logic: Apply if, else, and switch-case statements for input handling.
+ - 7-Segment Interfacing: Drive numeric displays by mapping segment patterns.
+ - Multiplexing Display: Control multi-digit displays efficiently with digit scanning.
+ - LCD Interfacing: Initialize and operate 16x2 or 20x4 LCDs in 4-bit/8-bit modes.
+ - Dynamic LCD Display: Show scrolling, blinking, and formatted text on screen.
+ - Keypad Interfacing: Detect keypresses via row-column scanning and debounce logic.
+ - ADC Interfacing: Read analog sensor data using internal ADC and display values.
+ - Sensor Integration: Convert analog signals (e.g., LM35) into real-world units.
+ - RTC Communication: Interface real-time clock modules using I2C for timekeeping.
+ - Interrupt Handling: Use external interrupts for events like keypad edit or alerts.
+ - Modular Design: Split large code into reusable functions and separate files.
+ - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2148)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -295,47 +268,60 @@ __👨‍💻 ARM7 LPC2129__
 25. Title: 20x4 LCD Interface with LPC2129 for Multi-Format Data Display
 
 __Learning Keys:__
- - GPIO Programming: Learn how to configure and control GPIO pins for digital output and input using LPC2148.
- - Bit Manipulation: Understand how to set, clear, and toggle individual bits in registers to control LEDs and read switch states.
- - Timing Control with Delay Functions: Implement software delay using loops to create visual patterns in LED blinking and sequences.
- - Decision-Making Logic: Use simple if/else or switch-case logic to respond to user input from switches.
- - Digital Logic Simulation: Simulate real-world digital systems (like traffic signals) using LED control patterns.
- - 7-Segment Interfacing: Learn how to map segments to GPIOs and display numeric values by controlling segment patterns.
- - Multiplexing Technique: Use digit-wise scanning to control multiple 7-segment displays with fewer GPIOs.
- - Modular Coding: Break down large display tasks into functions for digit extraction and display control.
- - Timer/Stopwatch Logic: Implement counters, delays, and reset/increment functions using timers and flags.
- - Random Number Generation (Electronic Dice): Use pseudo-random algorithms to simulate dice rolling.
- - LCD Interfacing (16x2 and 20x4): Learn to initialize and use LCDs in 4-bit or 8-bit mode for data/command communication.
- - Character Formatting: Display strings, variables, custom characters, and ASCII codes with proper positioning.
- - Dynamic Content Display: Create scrolling, blinking, and alternating messages using cursor control and delays.
- - Real-Time Parameter Display: Show live sensor data (ADC/Temperature/Distance) in a readable format.
- - Multi-Line and Structured Display: Present tabular and formatted content using 20x4 LCD.
- - Matrix Keypad Interfacing: Understand scanning technique (row-column) and debouncing logic.
- - Character Mapping: Convert key press positions to numerical or character values.
- - User Interaction Design: Build interactive features like SMS-typing, password entry, and input editing.
- - Secure Input Handling: Add basic validation and entry confirmation for user passwords or values.
- - RTC Integration (DS1307/DS3231): Use I2C protocol to communicate with external RTC modules.
- - Time Comparison Logic: Implement scheduled access and control based on current time values.
- - Interrupt-Driven Design: Use external interrupts or polling to handle time edit requests or access triggers.
- - Secure Scheduling: Combine password authentication with time constraints for access control systems.
- - ADC Interfacing: Learn how to configure LPC2148’s built-in ADC to capture analog signals.
- - Sensor Calibration & Scaling: Convert raw ADC values into meaningful units (°C, cm, %, etc.).
- - Data Filtering & Formatting: Implement smoothing or formatted display of fluctuating sensor values.
- - Sensor Protocols (One-Wire, Analog): Interface sensors like DHT11 (digital) and LM35 (analog) with proper timing.
- - Multi-Module Integration: Combine GPIO, LCD, Keypad, RTC, ADC, and Interrupts in a single system.
- - Modular Programming: Organize code in files/functions for scalability and clarity.
- - Real-Time Behavior Simulation: Create systems that mimic real-world use-cases like security panels or access controllers.
- - Power Management (Optional): Explore sleep modes and peripheral enable/disable techniques.
- - Debugging & Testing: Practice debugging techniques using UART print logs or LED indicators.
+ - GPIO Programming: Control digital inputs and outputs using microcontroller ports.
+ - Bit Manipulation: Use bitwise operations to set, clear, and toggle specific bits.
+ - Delay Control: Create precise timing delays for LED patterns and display effects.
+ - Decision Logic: Apply if, else, and switch-case statements for input handling.
+ - 7-Segment Interfacing: Drive numeric displays by mapping segment patterns.
+ - Multiplexing Display: Control multi-digit displays efficiently with digit scanning.
+ - LCD Interfacing: Initialize and operate 16x2 or 20x4 LCDs in 4-bit/8-bit modes.
+ - Dynamic LCD Display: Show scrolling, blinking, and formatted text on screen.
+ - Keypad Interfacing: Detect keypresses via row-column scanning and debounce logic.
+ - ADC Interfacing: Read analog sensor data using internal ADC and display values.
+ - Sensor Integration: Convert analog signals (e.g., LM35) into real-world units.
+ - RTC Communication: Interface real-time clock modules using I2C for timekeeping.
+ - Interrupt Handling: Use external interrupts for events like keypad edit or alerts.
+ - Modular Design: Split large code into reusable functions and separate files.
+ - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
 __📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__👨‍💻 Microcontroller 8051__
-
+__👨‍💻 Microcontroller AT89S52(8051)__
+1. Title: LED Blinking using AT89C51 Microcontroller
+2. Title: Traffic Light Signal Simulation using AT89S52 Microcontroller
+3. Title: Running LED Pattern Display using AT89S52 Microcontroller
+4. Title: Random Dice Value Display on LEDs using AT89S52 Microcontroller
+5. Title: Switch-Controlled LED Using AT89S52 Microcontroller
+6. Title: Dual Switch-Controlled LED Using AT89S52 Microcontroller
+7. Title: 4 Switches Controlling 4 LEDs Using AT89S52 Microcontroller
+8. Title: Single Digit Up Counter using Common Anode 7-Segment Display with AT89S52
+9. Title: Digital Clock Simulation on 7-Segment Display Using AT89S52
+10. Title: Static 4-Digit Number Display Using AT89S52 and 7-Segment Display
+11. Title: Floating Point Number Display on 4-Digit 7-Segment Using AT89S52
+12. Title: Scrolling Message Display on 4-Digit 7-Segment Using AT89S52
+13. Title: LCD 16*2 Data Display with CGRAM and Multiple Formats Using AT89S52
+14. Title: Alphabet Display with ASCII Values on LCD Using AT89S52
+15. Title: Electronic Dice Simulation on LCD Using AT89S52
+16. Title: Oscillating Message Display on 16x2 LCD Using AT89S52
+17. Title: Fastest Finger First Timer Display on LCD Using AT89S52
+18. Title: 4x3 Matrix Keypad Interface with 16x2 LCD on AT89S52
+19. Title: Name Entry System Using 4x4 Keypad and 16x2 LCD on AT89C51
+20. Title: LCD 20*4 Data Display with CGRAM and Multiple Formats Using AT89S52
+    
 __Learning Keys:__
+ - Understand GPIO pin configuration for input and output operations.
+ - Learn how to implement software-based delay using loops.
+ - Practice LED control through logical HIGH/LOW pin toggling.
+ - Implement switch-based user input handling using polling.
+ - Develop multiplexing techniques for 7-segment display interfacing.
+ - Display numbers, characters, and messages using 16x2 and 20x4 LCDs.
+ - Generate and display random values using logic and timer-based techniques.
+ - Interface matrix keypad with microcontroller to detect keypresses.
+ - Control cursor, create custom symbols, and format strings on LCD.
+ - Design real-time logic flows like counters, clocks, and simulators.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2129)__
+__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/AT89S52_Microcontroller/tree/main)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
