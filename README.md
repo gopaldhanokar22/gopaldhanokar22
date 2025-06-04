@@ -48,6 +48,21 @@ Simulates a banking system:
  - Simulates a banking database using data structures and file handling 
 
 __Learning Keys:__
+ - RFID Integration with LPC2148: Learned to interface RFID module with ARM7 using UART and validate unique card IDs.
+ - PIN Verification Logic: Developed logic for secure PIN entry, attempt limits, and error handling in embedded C.
+ - 4x4 Keypad & LCD Interfacing: Implemented a user-friendly interface for menu navigation using keypad and 16x2 LCD.
+ - Buzzer Alerts: Used buzzer feedback for invalid actions and transaction notifications.
+ - UART Communication: Configured serial communication between LPC2148 and Linux PC using MAX232 IC.
+ - Protocol Design: Designed a command-response protocol for reliable data exchange between ATM front-end and PC.
+ - File Handling in C: Used text/binary file operations to store user data, transactions, and mini-statements persistently.
+ - Dynamic Data Structures: Applied linked lists and structures to manage banking operations like mini-statements and transaction logs.
+ - Menu-Driven Console Interface: Created user menus for testing and debugging PC-side operations via terminal.
+ - Keil uVision & Flash Magic: Practiced embedded development cycle: code > compile > flash > test using LPC2148.
+ - GCC & Linux Terminal Usage: Compiled and debugged C programs on Linux, improving command-line confidence.
+ - Embedded-Desktop System Integration:  Understood complete flow of embedded system communicating with a software database.
+ - Modular Code Architecture: Separated logic into reusable modules (RFID, keypad, LCD, UART, banking logic).
+ - Debugging & Troubleshooting: Gained skills in tracing serial data issues, peripheral mismatches, and logical errors.
+ - Real-Time Application Thinking: Developed understanding of real-world system behavior, user access security, and fault-tolerance.
 
 __📁 View Project LPC2148: 🔗[Link]()__\
 __📁 View Project LPC2129: 🔗[Link]()__
