@@ -52,7 +52,7 @@ __Learning Keys:__
  - PIN Verification Logic: Developed logic for secure PIN entry, attempt limits, and error handling in embedded C.
  - 4x4 Keypad & LCD Interfacing: Implemented a user-friendly interface for menu navigation using keypad and 16x2 LCD.
  - Buzzer Alerts: Used buzzer feedback for invalid actions and transaction notifications.
- - UART Communication: Configured serial communication between LPC21xx and Linux PC using MAX232 IC.
+ - UART Communication: Configured serial communication between LPC2148 and Linux PC using MAX232 IC.
  - Protocol Design: Designed a command-response protocol for reliable data exchange between ATM front-end and PC.
  - File Handling in C: Used text/binary file operations to store user data, transactions, and mini-statements persistently.
  - Dynamic Data Structures: Applied linked lists and structures to manage banking operations like mini-statements and transaction logs.
