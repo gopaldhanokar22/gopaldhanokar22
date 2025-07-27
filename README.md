@@ -15,32 +15,49 @@ ________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
  - __Programming Languages:__
-      - C,
-      - C++,
-      - Data Structures & Algorithms (DSA),
+      - C Programming 
+      - C++ Programming
+      - Python Programming
+      - Linux System Programming
+      - Linux Kernel Programming
+      - Linux Device Driver Programming 
+      - Data Structures & Algorithms (DSA)
       - Bare-Metal Programming
            - Embedded C
            - Embedded C++
-           - ASM  
+           - Assembly Language 
+ 
  - __Microcontrollers:__
       - ARM Development Board
            - LPC2129
            - LPC2148
            - STM32F407G
+           - STM32F103C8T6
       - Arduino Development Board
            - Arduino Uno 
            - Arduino Nano
+      - Microcontroller 8051 Development Board
+           - AT89S51 
+           - AT89C52
+ 
  - __Operating Systems:__
     - Window
     - Linux (Ubuntu)
     - Real-Time Operating System (RTOS)
+
+ - __Single Board Computer:__
+    - Raspberry Pi 5
+    - Beaglebone Black
+
  - __Developer Tools:__
     - Keil µVision
     - Proteus
     - Arduino IDE
+ 
  - __Protocols:__
-    - CAN, SPI, I2C, USB, UART
- - __Networking Protocols:__ TCP/IP
+    - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
+
+ - __Networking Protocols:__ 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
