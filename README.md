@@ -23,7 +23,11 @@ ________________________________________________________________________________
            - Embedded C++
            - ASM  
  - __Microcontrollers:__
-     - ARM Development Board
+      - RM Development Board
+           - LPC2129
+           - LPC2148
+           - ASM 
+      - ARM Development Board
            - LPC2129
            - LPC2148 and 8051(89S51 & 89C52)
  - __Operating Systems:__ Linux, Real-Time Operating System (RTOS)
