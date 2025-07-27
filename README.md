@@ -25,7 +25,7 @@ ________________________________________________________________________________
  - __Microcontrollers:__
      - ARM Development Board
            - LPC2129
-           - LPC2148 and 8051(89S51 & 89C52)
+       LPC2148 and 8051(89S51 & 89C52)
  - __Operating Systems:__ Linux, Real-Time Operating System (RTOS)
  - __Developer Tools:__ Keil µVision, Proteus, Arduino IDE
  - __Communication Protocols:__ CAN, SPI, I2C, USB, UART
