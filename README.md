@@ -57,7 +57,7 @@ ________________________________________________________________________________
  - __Protocols:__
     - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
 
- - __Certificate:__
+ - __Certificate and Achievements:__
     - [Vector India: Advanced Embedded System](https://drive.google.com/file/d/12rHaTP2IedHyC_hNmRUVVXcacqmlfmXl/view?usp=drive_link)
     - [Udemy: RTOS](https://drive.google.com/file/d/1zlR5MSRZea0EuPZee5xqHtpIb7OSSaie/view?usp=drive_link)
     - [Udemy: Communication Protocols](https://drive.google.com/file/d/1MEMI38HgReSyb4oGnpRmJlO2dfiIt-GU/view?usp=drive_link)
