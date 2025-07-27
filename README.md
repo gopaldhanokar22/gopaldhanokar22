@@ -57,7 +57,14 @@ ________________________________________________________________________________
  - __Protocols:__
     - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
 
- - __Networking Protocols:__ 
+ - __Vector India PVT LTD, Hyderabad:__
+     I am actively gaining hands-on experience in embedded systems by working on projects involving development boards such as ARM7 and 8051 microcontrollers, focusing on enhancing efficiency and reducing errors. I possess strong programming skills in C, C++, Embedded C, and DSA, with additional expertise in Linux, RTOS, and communication protocols like CAN, SPI, and I2C. Alongside technical proficiency, I am continuously developing my problem-solving, teamwork, and management skills. My dedication to learning is reflected in my passion for coding, electronics project making, and hardware interfacing, ensuring I stay updated with emerging technologies.
+
+- __Vector Projects:__
+   - Major Projects
+   - Mini Projects
+      1. 
+      2.    
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
