@@ -29,16 +29,16 @@ ________________________________________________________________________________
  
  - __Microcontrollers:__
       - ARM Development Board
-           - [LPC2129]()
-           - [LPC2148]()
+           - [LPC2129](https://github.com/gopaldhanokar22/ARM7_LPC2129)
+           - [LPC2148](https://github.com/gopaldhanokar22/ARM7_LPC2148)
            - [STM32F407G]()
            - [STM32F103C8T6]()
       - Arduino Development Board
-           - [Arduino Uno]()
-           - [Arduino Nano]()
+           - [Arduino Uno](https://github.com/gopaldhanokar22/Arduino_Uno_R3)
+           - [Arduino Nano](https://github.com/gopaldhanokar22/Arduino_nano_v3)
       - Microcontroller 8051 Development Board
-           - [AT89S51]()
-           - [AT89C52]()
+           - [AT89S51](https://github.com/gopaldhanokar22/Microcontroller_8051)
+           - [AT89C52](https://github.com/gopaldhanokar22/AT89S52_Microcontroller)
  
  - __Operating Systems:__
     - Window
