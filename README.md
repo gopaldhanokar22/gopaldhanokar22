@@ -58,7 +58,7 @@ ________________________________________________________________________________
     - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
 
  - __Certificate:__
-    - [Vector Cerificate]()
+    - [Vector India Certificate: Advanced Embedded System]()
     - []() 
 
  - __Paper Publish:__
