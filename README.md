@@ -90,8 +90,10 @@ ________________________________________________________________________________
     - [Symphonix IT: Internet Of Things](https://drive.google.com/file/d/1sESs4MaOsehZaji2ms_YAX_w3aqPGemH/view?usp=drive_link) 
 
  - __Paper Publish:__
-    - [Vector India Certificate: Advanced Embedded System]()
-    - []() 
+    - [All in One Robot for Military Purpose](https://drive.google.com/file/d/1UNjkvXZOZq8t7Jjq26OxpGRPvwxQORfz/view?usp=drive_link)
+    - [RFID Based student attendance using arduino nano and SIM 800L module with SMS notification system](https://drive.google.com/file/d/1uj51_ZdZBXsF87CnbzJoDPIG1fPM1vng/view?usp=drive_link)
+    - [Delivery purpose Robot using Differnet types of methods](https://drive.google.com/file/d/1jEQ-9d2gHGGB3IEod8a8psya6rSvYxA2/view?usp=drive_link)
+    - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
 
