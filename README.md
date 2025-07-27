@@ -29,16 +29,16 @@ ________________________________________________________________________________
  
  - __Microcontrollers:__
       - ARM Development Board
-           - LPC2129
-           - LPC2148
-           - STM32F407G
-           - STM32F103C8T6
+           - LPC2129 [Link]()__
+           - LPC2148 [Link]()__
+           - STM32F407G [Link]()__
+           - STM32F103C8T6 [Link]()__
       - Arduino Development Board
-           - Arduino Uno 
-           - Arduino Nano
+           - Arduino Uno [Link]()__
+           - Arduino Nano [Link]()__
       - Microcontroller 8051 Development Board
-           - AT89S51 
-           - AT89C52
+           - AT89S51 [Link]()__
+           - AT89C52 [Link]()__
  
  - __Operating Systems:__
     - Window
@@ -57,7 +57,12 @@ ________________________________________________________________________________
  - __Protocols:__
     - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
 
+ - __Certificate:__
+    - Vector Cerificate [Link](https://github.com/gopaldhanokar22/ATM_System_Design_with_Database_Integration_LPC2148/tree/main)__
+    - 
 
+ - __Paper Publication:__
+    - 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
 
