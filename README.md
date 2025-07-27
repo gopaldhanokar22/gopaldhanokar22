@@ -14,7 +14,14 @@ I’m looking forward to contributing to innovative embedded technology projects
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
- - __Programming Languages:__ C, C++, Data Structures & Algorithms (DSA), Embedded C
+ - __Programming Languages:__
+      - C,
+      - C++,
+      - Data Structures & Algorithms (DSA),
+      - Bare-Metal Programming
+           - Embedded C
+           - Embedded C++
+           - ASM  
  - __Microcontrollers:__ ARM (LPC2129 & LPC2148) and 8051(89S51 & 89C52)
  - __Operating Systems:__ Linux, Real-Time Operating System (RTOS)
  - __Developer Tools:__ Keil µVision, Proteus, Arduino IDE
