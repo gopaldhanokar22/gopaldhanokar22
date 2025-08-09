@@ -19,13 +19,16 @@ ________________________________________________________________________________
       - C++ Programming
       - Python Programming
       - Linux System Programming
-      - Linux Kernel Programming
       - Linux Device Driver Programming 
       - Data Structures & Algorithms (DSA)
       - Bare-Metal Programming
            - Embedded C
            - Embedded C++
            - Assembly Language 
+ 
+  - __Single Board Computer:__
+    - Raspberry Pi 5
+    - Beaglebone Black
  
  - __Microcontrollers:__
       - ARM Development Board
@@ -44,10 +47,6 @@ ________________________________________________________________________________
     - Window
     - Linux (Ubuntu)
     - Real-Time Operating System (RTOS)
-
- - __Single Board Computer:__
-    - Raspberry Pi 5
-    - Beaglebone Black
 
  - __Developer Tools:__
     - Keil µVision
@@ -73,7 +72,7 @@ ________________________________________________________________________________
     - [IJSREM: Military Purpose Robot](https://drive.google.com/file/d/1I6aquJtT4eqH-7qrkmMXCpcRX_dnKzLp/view?usp=drive_link)
     - [Infosys Springboard: Robotic Course](https://drive.google.com/file/d/1R3VoB-G3L0gQ5meqpwhF9OtNZLRhp554/view?usp=drive_link)
     - [Infosys Springboard: Electronics Course](https://drive.google.com/file/d/1jgiQJlSMhDWAcLjtIh6ctJWaXMgQic44/view?usp=drive_link)
-    - [Infosys Springboard: Arduino Un](https://drive.google.com/file/d/1GChc7JKkMYAG8kUYmUzb3rYfVtLNpZD0/view?usp=drive_link)
+    - [Infosys Springboard: Arduino Uno](https://drive.google.com/file/d/1GChc7JKkMYAG8kUYmUzb3rYfVtLNpZD0/view?usp=drive_link)
     - [Infosys Springboard: Basic of Electronics & programming](https://drive.google.com/file/d/1-XWL-UT0lAOpiKgX7A1JBSJllSONQHtb/view?usp=drive_link)
     - [CodSoft: C++ Programming](https://drive.google.com/file/d/1eVfDLH3wplqjgB9NQ3Ijw1CYZPxq2de_/view?usp=drive_link)
     - [CodTech IT Solution:Embedded System-2](https://drive.google.com/file/d/1hC79gmo6wtjwKFA7Bkb8Uu3x145Y1BFF/view?usp=drive_link)
