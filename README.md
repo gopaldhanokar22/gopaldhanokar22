@@ -48,9 +48,10 @@ ________________________________________________________________________________
     - Linux (Ubuntu)
     - Real-Time Operating System (RTOS)
 
- - __Developer Tools:__
+ - __Developer Tools (Editor and Simulator):__
     - Keil µVision
     - Proteus
+    - VS code
     - Arduino IDE
  
  - __Protocols:__
