@@ -62,9 +62,6 @@ ________________________________________________________________________________
     - Automotive Embedded system : 
     - Python Programming : 
 
-  - __Workshop:__
-    - AI 
-  
  - __Certificate and Achievements:__
     - [Vector India: Advanced Embedded System](https://drive.google.com/file/d/12rHaTP2IedHyC_hNmRUVVXcacqmlfmXl/view?usp=drive_link)
     - [Udemy: RTOS](https://drive.google.com/file/d/1zlR5MSRZea0EuPZee5xqHtpIb7OSSaie/view?usp=drive_link)
