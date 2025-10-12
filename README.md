@@ -5,62 +5,24 @@
 
 ## 📌About Me
 
-I am Gopal Dhanokar, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, and Data Structures. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
+I am Gopal Dhanokar, an Embedded Software Engineer with strong programming skills in C, C++, Python, and Linux programming. I have hands-on experience in system programming, kernel programming, device drivers, and socket programming on Linux.
 
-My focus areas include real-time operating systems (RTOS), Linux-based development, and communication protocols such as CAN, SPI, I2C, and UART. I enjoy problem-solving and continuously seek to improve system efficiency and reliability. My dedication to learning and building practical solutions is driven by a passion for coding, electronics, and system interfacing.
+I work with ARM (LPC2148/LPC2129), STM32F4 boards, and RTOS, and I am familiar with Buildroot, Yocto, and Embedded AI.
 
-I’m looking forward to contributing to innovative embedded technology projects and growing in a challenging, fast-paced environment that values creativity and technical depth.
+I have good knowledge of communication protocols (UART, I2C, SPI, CAN, USB, Ethernet, Bluetooth, Wi-Fi, Zigbee, LIN) and networking protocols (TCP/IP, UDP). I also understand automotive technologies, AUTOSAR, display technology, and basic electronics concepts.
+
+I am passionate about building efficient embedded solutions and always eager to learn new technologies.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
- - __Programming Languages:__
-      - C Programming 
-      - C++ Programming
-      - Python Programming
-      - Linux System Programming
-      - Linux Device Driver Programming 
-      - Data Structures & Algorithms (DSA)
-      - Bare-Metal Programming
-           - Embedded C
-           - Embedded C++
-           - Assembly Language 
- 
-  - __Single Board Computer:__
-    - Raspberry Pi 5
-    - Beaglebone Black
- 
- - __Microcontrollers:__
-      - ARM Development Board
-           - [LPC2129](https://github.com/gopaldhanokar22/ARM7_LPC2129)
-           - [LPC2148](https://github.com/gopaldhanokar22/ARM7_LPC2148)
-           - [STM32F407G]()
-           - [STM32F103C8T6]()
-      - Arduino Development Board
-           - [Arduino Uno](https://github.com/gopaldhanokar22/Arduino_Uno_R3)
-           - [Arduino Nano](https://github.com/gopaldhanokar22/Arduino_nano_v3)
-      - Microcontroller 8051 Development Board
-           - [AT89S51](https://github.com/gopaldhanokar22/Microcontroller_8051)
-           - [AT89C52](https://github.com/gopaldhanokar22/AT89S52_Microcontroller)
- 
- - __Operating Systems:__
-    - Window
-    - Linux (Ubuntu)
-    - Real-Time Operating System (RTOS)
+•	__Programming Languages:__ C, C++, DSA, ASM (8086), Embedded C, Linux System, Linux Kernel, Linux Device Driver, Linux Socket Programming. 
+•	__Microcontroller:__ ARM (LPC2129 and LPC2148) and Raspberry pi 5 (BCM2712) 
+•	__Operating System:__ Linux and Window.
+•	__Communication Protocols:__ CAN, SPI, I2C, USB, UART, USART
+•	__Soft Skills:__ Team work, Project Management, Problem Solving, Communication. 
+•	__Hobbies:__ Electronics Project making, Coding Practice, Interfacing, Cycling. 
 
- - __Developer Tools (Editor and Simulator):__
-    - Keil µVision
-    - Proteus
-    - VS code
-    - Arduino IDE
- 
- - __Protocols:__
-    - CAN, SPI, I2C, USB, UART, TCP/IP, USART, UDP, ETHERNET, WIFI, BLUETOOTH, LIN
-
- - __Courses:__
-    - Adavnced Embedded System : Vector India Pvt. Ltd. Hyderabad
-    - Automotive Embedded system : 
-    - Python Programming : 
 
  - __Certificate and Achievements:__
     - [Vector India: Advanced Embedded System](https://drive.google.com/file/d/12rHaTP2IedHyC_hNmRUVVXcacqmlfmXl/view?usp=drive_link)
