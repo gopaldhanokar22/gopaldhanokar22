@@ -16,10 +16,12 @@ I am passionate about building efficient embedded solutions and always eager to 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
-•	__Programming Languages:__ C, C++, DSA, ASM (8086), Embedded C, Linux System, Linux Kernel, Linux Device Driver, Linux Socket Programming. \
-•	__Microcontroller:__ ARM (LPC2129 and LPC2148) and Raspberry pi 5 (BCM2712) \
+•	__Programming Languages:__ C, C++, DSA, ASM (8085), Embedded C \
+•	__Linux:__ BuildRoot, Yocto, QEMU, Linux System and Linux Device Driver \
+•	__Microcontroller:__ ARM (LPC2129 and LPC2148) and Raspberry pi 5 (BCM2712) \ 
 •	__Operating System:__ Linux and Window. \
-•	__Communication Protocols:__ CAN, SPI, I2C, USB, UART, USART \
+•	__Communication Protocols:__ UART, USB, I2C, SPI, CAN \
+•	__Tools:__ VS code, Dev C++, Git, Github, QFIL, Tera-Term, Flash Magic, Keil uVision and Proteus \
 •	__Soft Skills:__ Team work, Project Management, Problem Solving, Communication. \
 •	__Hobbies:__ Electronics Project making, Coding Practice, Interfacing, Cycling. 
 
