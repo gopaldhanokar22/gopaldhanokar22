@@ -20,7 +20,7 @@ ________________________________________________________________________________
 •	__Linux:__ BuildRoot, Yocto, QEMU, Linux System and Linux Device Driver \
 •	__Microcontroller:__ ARM (LPC2129 and LPC2148) and Raspberry pi 5 (BCM2712) \ 
 •	__Operating System:__ Linux and Window. \
-•	__Communication Protocols:__ UART, USB, I2C, SPI, CAN \
+•	__Communication Protocols:__ UART, USB, I2C, SPI, CAN, TCP\IP, UDP. \
 •	__Tools:__ VS code, Dev C++, Git, Github, QFIL, Tera-Term, Flash Magic, Keil uVision and Proteus \
 •	__Soft Skills:__ Team work, Project Management, Problem Solving, Communication. \
 •	__Hobbies:__ Electronics Project making, Coding Practice, Interfacing, Cycling. 
