@@ -5,11 +5,11 @@
 
 ## 📌About Me
 
-I am Gopal Dhanokar, an Embedded Software Engineer with strong programming skills in C, C++, DSA, ASM and Linux programming. I have hands-on experience in system programming, kernel programming, and device drivers on Linux.
+I am Gopal Dhanokar, an Embedded Software Engineer with strong programming skills in C, C++, DSA and Linux programming. I have hands-on experience in system programming, kernel programming, and device drivers on Linux.
 
 I work with ARM (LPC2148/LPC2129) and Raspberry pi 5 (BCM2712), and I am familiar with Buildroot, Yocto project, QEMU.
 
-I have good knowledge of communication protocols (UART, I2C, SPI, CAN, USB). I also understand display technology, and basic electronics concepts.
+I have good knowledge of communication protocols (UART, I2C, SPI, CAN, TCP/IP, UDP). I also understand display technology, and basic electronics concepts.
 
 I am passionate about building efficient embedded solutions and always eager to learn new technologies.
 
