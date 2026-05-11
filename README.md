@@ -22,6 +22,7 @@ ________________________________________________________________________________
 - **Communication Protocols:** UART, I2C, SPI, CAN, USB
 - **Network Protocols:** TCP/IP, UDP, Ethernet, Wi-Fi, Bluetooth 
 - **Tools:** VS code, Git, GitHub, QFIL, Tera-Term, Flash Magic, Keil uVision, Proteus, VectorCAST
+- **Debugging:** Log Analysis, Root Cause Analysis, White-box Testing, Grey-box Testing
 - **Soft Skills:** Teamwork, Project Management, Problem Solving, Communication 
 
 
