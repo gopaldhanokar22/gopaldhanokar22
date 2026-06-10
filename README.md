@@ -6,12 +6,14 @@
 ## 📌About Me
 
 I am an Embedded Software Engineer with hands-on experience in automotive systems, working across development, testing, and system integration to build reliable and high-performance solutions.
+Embedded Software Engineer with experience in Automotive Display Bring-up, Software Integration, and Embedded Systems. Currently working in the automotive domain on QNX-based platforms, supporting display bring-up, system integration, debugging, and validation activities for multiple vehicle programs.
 
-In my current role, I am involved in unit and integration testing using VectorCAST, achieving code coverage metrics such as MC/DC, and performing system-level validation on target hardware. I also have experience in debugging display interfaces (DP, eDP, DSI, SerDes), analyzing system logs, and resolving integration issues.
+Hands-on experience with C, C++, Embedded C, Embedded Linux, ARM7 microcontrollers, and communication protocols including UART, SPI, I2C, CAN, and USB. Worked on automotive display technologies such as DP, eDP, DSI, TI SerDes, and FPD-Link IV, along with software verification activities using VectorCAST.
 
-I am skilled in C, C++, Embedded C, and have a strong foundation in Embedded Linux, RTOS, and communication protocols like CAN, SPI, I2C, and UART. I enjoy solving complex problems, collaborating with cross-functional teams, and continuously learning new technologies.
+Strong interest in Embedded Software Development, Embedded Linux, Device Drivers, Automotive Software Integration, and next-generation automotive technologies. Passionate about solving complex technical challenges, learning new technologies, and building reliable embedded solutions.
 
-I am currently open to opportunities in Embedded Systems, Automotive Software, and System Integration roles where I can contribute and grow further.
+Open to opportunities in Embedded Software Engineering, Embedded Linux, Automotive Software Development, and Software Integration roles.
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
