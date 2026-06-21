@@ -18,7 +18,7 @@ ________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
 - **Programming Languages:** C, C++, Embedded C, Data Structures in C
-- **Linux:** Linux Internals, BuildRoot, Yocto Project, QMEU, Device Driver
+- **Linux:** Linux Internals, Device Driver
 - **Microcontroller & Board:** ARM7 (LPC2129 and LPC2148), Raspberry pi 5 Board 
 - **Operating System:** Embedded Linux, Windows, RTOS
 - **Communication Protocols:** UART, I2C, SPI, CAN, USB
