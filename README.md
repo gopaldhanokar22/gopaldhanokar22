@@ -21,9 +21,9 @@ ________________________________________________________________________________
 - **Linux:** Linux Internals, Device Driver
 - **Microcontroller & Board:** ARM7 (LPC2129 and LPC2148), Raspberry pi 5 Board 
 - **Operating System:** Embedded Linux, Windows, RTOS
-- **Communication Protocols:** UART, I2C, SPI, CAN, USB
+- **Protocols:** UART, I2C, SPI, CAN, USB, UDS
 - **Network Protocols:** TCP/IP, UDP, Ethernet, Wi-Fi, Bluetooth 
-- **Tools:** VS code, Git, GitHub, QFIL, Tera-Term, Flash Magic, Keil uVision, Proteus, VectorCAST
+- **Tools:** VS code, Git, GitHub, QFIL, Tera-Term, Flash Magic, Keil uVision, Proteus, VectorCAST, CANoe
 - **Debugging:** Log Analysis, Root Cause Analysis, White-box Testing, Grey-box Testing
 - **Soft Skills:** Teamwork, Project Management, Problem Solving, Communication 
 
