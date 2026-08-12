@@ -68,7 +68,8 @@ ________________________________________________________________________________
     - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
 
 
-## __VCU Project (Display Bring-up Team) - Client General Motor__
+## __VCU Project (Display Bring-up Team)__
+__Role and Responsibility__
  - Supported build and system integration activities across multiple GM display variants on QNX-based platforms, ensuring stable software baselines across releases.
  - Collaborated with client and cross-functional teams to gather integration requirements and translate them into build configurations, validation scope, and integration artifacts.
  - Performed panel bring-up, firmware flashing, and functional verification on target hardware using tools like QFIL, VIP, and Tera Term.
@@ -82,6 +83,21 @@ ________________________________________________________________________________
  - Reproduced and isolated integration-level defects before vendor validation to improve build reliability and reduce downstream risks.
  - Coordinated with chipset and vendor teams to resolve system-level integration issues affecting build stability and timelines.
  - Maintained stable integration baselines and tracked release health metrics such as boot stability, service readiness, and performance parameters.
+
+## __PDC Dynamic Test Project (QA Team)__
+__Role and Responsibility__
+ - Worked on automotive Power Distribution Controller (PDC) software testing for ECU-based systems
+ - Performed Unit Testing (UT) and Integration Testing (IT) using VectorCAST
+ - Executed test environment setup, compilation, and execution for embedded C modules
+ - Designed and executed test cases based on software requirements and design documents
+ - Achieved code coverage metrics including Statement, Branch, Function, and MC/DC coverage
+ - Applied testing techniques such as Boundary Value Analysis (BVA) and Fault Injection Testing
+ - Performed back tracing analysis to understand function flow and module interactions
+ - Created and maintained test documentation aligned with Automotive SPICE (SWE.1 to SWE.6)
+ - Prepared Unit Test Reports (UTR) and Integration Test Reports (ITR)
+ - Conducted self-review, peer review, and internal quality reviews to ensure process compliance
+ - Supported ASPICE audits by providing required test evidence and documentation
+ - Collaborated with cross-functional teams for requirement understanding and defect resolution
 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
