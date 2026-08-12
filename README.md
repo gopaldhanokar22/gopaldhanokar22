@@ -23,8 +23,9 @@ ________________________________________________________________________________
 - **Operating System:** Embedded Linux, Windows, RTOS
 - **Protocols:** UART, I2C, SPI, CAN, USB, UDS
 - **Network Protocols:** TCP/IP, UDP, Ethernet, Wi-Fi, Bluetooth 
-- **Tools:** VS code, Git, GitHub, QFIL, Tera-Term, Flash Magic, Keil uVision, Proteus, VectorCAST, CANoe
+- **Tools:** VS code, Git, GitHub, QFIL, Tera-Term, Flash Magic, Keil uVision, Proteus, VectorCAST, CANoe, vTESTstudio
 - **Debugging:** Log Analysis, Root Cause Analysis, White-box Testing, Grey-box Testing
+- **Testing Concept:** SDLC, STLC, V-Model, Bug Life Cycle, Agile Methodology, ASPICE Levels
 - **Soft Skills:** Teamwork, Project Management, Problem Solving, Communication 
 
 
