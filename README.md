@@ -68,7 +68,7 @@ ________________________________________________________________________________
     - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
 
 
-## __VCU Project (Display Bring-up Team)__
+## __VCU Project__
 __Role and Responsibility:__
  - Supported build and system integration activities across multiple GM display variants on QNX-based platforms, ensuring stable software baselines across releases.
  - Collaborated with client and cross-functional teams to gather integration requirements and translate them into build configurations, validation scope, and integration artifacts.
@@ -84,7 +84,7 @@ __Role and Responsibility:__
  - Coordinated with chipset and vendor teams to resolve system-level integration issues affecting build stability and timelines.
  - Maintained stable integration baselines and tracked release health metrics such as boot stability, service readiness, and performance parameters.
 
-## __PDC Dynamic Test Project (QA Team)__
+## __PDC Dynamic Test Project__
 __Role and Responsibility:__
  - Worked on automotive Power Distribution Controller (PDC) software testing for ECU-based systems
  - Performed Unit Testing (UT) and Integration Testing (IT) using VectorCAST
