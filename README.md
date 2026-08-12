@@ -66,6 +66,24 @@ ________________________________________________________________________________
     - [RFID Based student attendance using arduino nano and SIM 800L module with SMS notification system](https://drive.google.com/file/d/1uj51_ZdZBXsF87CnbzJoDPIG1fPM1vng/view?usp=drive_link)
     - [Delivery purpose Robot using Differnet types of methods](https://drive.google.com/file/d/1jEQ-9d2gHGGB3IEod8a8psya6rSvYxA2/view?usp=drive_link)
     - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
+
+
+__VCU Project (Display Bring-up Team) - Client General Motor__
+ - Supported build and system integration activities across multiple GM display variants on QNX-based platforms, ensuring stable software baselines across releases.
+ - Collaborated with client and cross-functional teams to gather integration requirements and translate them into build configurations, validation scope, and integration artifacts.
+ - Performed panel bring-up, firmware flashing, and functional verification on target hardware using tools like QFIL, VIP, and Tera Term.
+ - Worked on automotive display systems including VCD, IPD, HUD, FCC, and RCC clusters and infotainment screens.
+ - Conducted impact analysis during baseline merges and feature integrations to identify regression risks across middleware and system layers.
+ - Executed post-build validation to verify system boot, service initialization, dependency alignment, and overall system stability.
+ - Analyzed QNX boot logs to diagnose integration failures such as service crashes, configuration mismatches, dependency issues, and initialization timeouts.
+ - Investigated video link and signal issues across display interfaces including DP, eDP, DSI, and SerDes.
+ - Performed system, regression, smoke, sanity, and stability testing to ensure robust display functionality before software releases.
+ - Conducted structured validation cycles prior to code freeze to meet release readiness criteria.
+ - Reproduced and isolated integration-level defects before vendor validation to improve build reliability and reduce downstream risks.
+ - Coordinated with chipset and vendor teams to resolve system-level integration issues affecting build stability and timelines.
+ - Maintained stable integration baselines and tracked release health metrics such as boot stability, service readiness, and performance parameters.
+
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
 
