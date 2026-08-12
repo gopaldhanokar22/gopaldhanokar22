@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 
 ## __VCU Project (Display Bring-up Team)__
-__Role and Responsibility__
+__Role and Responsibility:__
  - Supported build and system integration activities across multiple GM display variants on QNX-based platforms, ensuring stable software baselines across releases.
  - Collaborated with client and cross-functional teams to gather integration requirements and translate them into build configurations, validation scope, and integration artifacts.
  - Performed panel bring-up, firmware flashing, and functional verification on target hardware using tools like QFIL, VIP, and Tera Term.
@@ -85,7 +85,7 @@ __Role and Responsibility__
  - Maintained stable integration baselines and tracked release health metrics such as boot stability, service readiness, and performance parameters.
 
 ## __PDC Dynamic Test Project (QA Team)__
-__Role and Responsibility__
+__Role and Responsibility:__
  - Worked on automotive Power Distribution Controller (PDC) software testing for ECU-based systems
  - Performed Unit Testing (UT) and Integration Testing (IT) using VectorCAST
  - Executed test environment setup, compilation, and execution for embedded C modules
@@ -99,6 +99,24 @@ __Role and Responsibility__
  - Supported ASPICE audits by providing required test evidence and documentation
  - Collaborated with cross-functional teams for requirement understanding and defect resolution
 
+
+## __ADAS Front Camera / LDW Testing Project__
+__Role and Responsibility:__
+ - Performed functional testing of Lane Departure Warning (LDW) feature based on system requirements and defined test scenarios.
+ - Validated CAN signals and messages related to LDW functionality using real-time vehicle/ECU communication.
+ - Verified LDW behavior for out-of-lane and in-lane conditions by simulating required input signals and monitoring output signals.
+ - Tested camera and radar-related signal interactions and verified expected signal behavior across different operating conditions.
+ - Performed UDS diagnostic testing using diagnostic services such as 0x10, 0x19, 0x22, 0x2E, 0x31 and 0x85.
+ - Verified positive diagnostic responses and ECU behavior according to system requirements.
+ - Tested DTC detection and fault handling, including high-voltage faults and camera blockage conditions.
+ - Verified LDW functionality under fault conditions and validated whether the feature operates as expected when DTCs are logged.
+ - Performed ECU data read/write validation, including VIN writing through UDS and verification of data persistence in NVM after ECU reset.
+ - Verified ECU information such as Hardware Number, Software Version and Bootloader Version using diagnostic services.
+ - Tested Diagnostic Session transitions including Default, Extended and Programming sessions.
+ - Validated Routine Control operations for camera calibration and other diagnostic routines.
+ - Verified Control DTC Setting (0x85) functionality by creating faults and validating DTC behavior.
+ - Analyzed CAN communication and monitored input/output signals to identify functional issues and validate expected ECU responses.
+ - Performed requirement-based testing, test execution, result verification and issue identification for ADAS ECU functionality.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Blue and White Modern Professional General Linkedin Banner (1)](https://github.com/user-attachments/assets/f2d83747-9329-4c00-ac32-117608b218d9)
