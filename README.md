@@ -68,6 +68,9 @@ ________________________________________________________________________________
     - [Delivery purpose Robot using Differnet types of methods](https://drive.google.com/file/d/1jEQ-9d2gHGGB3IEod8a8psya6rSvYxA2/view?usp=drive_link)
     - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+<img width="1584" height="396" alt="Linkdin Bannner" src="https://github.com/user-attachments/assets/4084656d-7e16-4d21-80e0-aeaf982e8404" />
 
 ## __VCU Project__
 __Role and Responsibility:__
