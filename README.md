@@ -13,16 +13,16 @@ I also have experience in 𝐚𝐮𝐭𝐨𝐦𝐨𝐭𝐢𝐯𝐞 𝐄𝐂𝐔 
 Additionally, I have hands-on exposure to 𝐀𝐃𝐀𝐒 𝐅𝐫𝐨𝐧𝐭 𝐂𝐚𝐦𝐞𝐫𝐚 𝐚𝐧𝐝 𝐋𝐚𝐧𝐞 𝐃𝐞𝐩𝐚𝐫𝐭𝐮𝐫𝐞 𝐖𝐚𝐫𝐧𝐢𝐧𝐠 (𝐋𝐃𝐖) 𝐭𝐞𝐬𝐭𝐢𝐧𝐠 using 𝐂𝐀𝐍𝐨𝐞 𝐚𝐧𝐝 𝐯𝐓𝐄𝐒𝐓𝐬𝐭𝐮𝐝𝐢𝐨, with 𝐂𝐀𝐍 𝐚𝐧𝐝 𝐔𝐃𝐒 𝐩𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬. My work includes CAN signal validation, ECU communication, diagnostic services, DTC testing, diagnostic session validation, and functional testing.
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
-🔹C | C++ | Embedded C | DSA | CAPL script 
-🔹Embedded Linux | Linux Internals | RTOS
-🔹ARM7 (LPC2129/LPC2148) | Raspberry Pi
-🔹UART | SPI | I2C | CAN | UDS
-🔹Git | GitHub | VS Code | Keil uVision
-🔹CANoe | vTESTstudio | VectorCAST (ISO 26262)
-🔹Debugging | Log Analysis | Root Cause Analysis
-🔹SDLC | STLC | V-Model | Bug Life Cycle | ASPICE Levels
-🔹Automotive ECU | ADAS | Display Bring-up
-🔹Automotive Software Integration & Validation
+ - C | C++ | Embedded C | DSA | CAPL script
+ - Embedded Linux | Linux Internals | RTOS
+ - ARM7 (LPC2129/LPC2148) | Raspberry Pi
+ - UART | SPI | I2C | CAN | UDS
+ - Git | GitHub | VS Code | Keil uVision
+ - CANoe | vTESTstudio | VectorCAST (ISO 26262)
+ - Debugging | Log Analysis | Root Cause Analysis
+ - SDLC | STLC | V-Model | Bug Life Cycle | ASPICE Levels
+ - Automotive ECU | ADAS | Display Bring-up
+ - Automotive Software Integration & Validation
 
 #𝐎𝐩𝐞𝐧 𝐭𝐨 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 in Embedded Software Development, Embedded Linux, Automotive Software Engineering, ECU Software, and Automotive Embedded Systems, where I can contribute to software development, integration, debugging, and validation.
 
