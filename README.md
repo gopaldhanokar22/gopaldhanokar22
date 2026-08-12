@@ -68,7 +68,7 @@ ________________________________________________________________________________
     - [Military Purpose Robot](https://drive.google.com/file/d/1pF80bd7JQ4P9M_iDjUXJyd5FmJpy_LJD/view?usp=drive_link)
 
 
-__VCU Project (Display Bring-up Team) - Client General Motor__
+## __VCU Project (Display Bring-up Team) - Client General Motor__
  - Supported build and system integration activities across multiple GM display variants on QNX-based platforms, ensuring stable software baselines across releases.
  - Collaborated with client and cross-functional teams to gather integration requirements and translate them into build configurations, validation scope, and integration artifacts.
  - Performed panel bring-up, firmware flashing, and functional verification on target hardware using tools like QFIL, VIP, and Tera Term.
